@@ -1,0 +1,12 @@
+<SearchPlugin xmlns="http://www.mozilla.org/2006/browser/search/" xmlns:os="http://a9.com/-/spec/opensearch/1.1/">
+<os:ShortName>Yale Library Catalog (Orbis)</os:ShortName>
+<os:Description>Keyword search full text in Orbexpress</os:Description>
+<os:InputEncoding>ISO-8859-1</os:InputEncoding>
+<os:Image width="16" height="16">data:image/x-icon;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAIAAACQkWg2AAAACXBIWXMAAA7qAAAO6gGjimNxAAABIklEQVR4nGP4TyJgIF8Dg/FMZIRVBEWDQ+oGiASvzWzjiMX///+3S17HZzsHImgcsfjChQsoGj5+/JhYs5nBeCa39ayZ89f+//9/19GbENXRRYu2bt168eJFdD/cvv8MYqRt/OKvX786pm1kMJ6p4jtvy5YtENVYPD1z1RmIqbVTj0IYE2atP378OL5QsopfxWA8k892LoPxzKSqVXv37sUeSnBw9sojiNkqvvO2b99++fJlAhr+//+f2bKLwXhm99RVJ06cQJPCouHfv38NM44zGM/ctm3b7du3CWv4//9/86xTDMYzd+/eDdFPQINzxmZ57yUMxjMNwxZmNO8kbANycjCJXHL37l3CTrp48eLevXv37dt39OjRW7duEdaABwAAxCxxvxdHwisAAAAASUVORK5CYII=</os:Image>
+<UpdateInterval>7</UpdateInterval>
+<UpdateUrl>http://mycroft.mozdev.org/update.php/id0/yalelibcat.src</UpdateUrl>
+<IconUpdateUrl>http://mycroft.mozdev.org/update.php/id0/yalelibcat.png</IconUpdateUrl>
+<SearchForm>http://orbexpress.library.yale.edu</SearchForm>
+<os:Url type="text/html" method="GET" template="http://orbexpress.library.yale.edu/cgi-bin/Pwebrecon.cgi?Search_Arg={searchTerms}&amp;Search_Code=FT*&amp;CNT=10&amp;HIST=1">
+</os:Url>
+</SearchPlugin>
