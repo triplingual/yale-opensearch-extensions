@@ -43,4 +43,6 @@ Yale University New Orbis
 
 Yale Global
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale.xml')`
+
+YUFind
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yufind.xml')`
