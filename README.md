@@ -9,15 +9,15 @@ These were done with very little experience using OpenSearch, so there may be gl
 Add to Chrome
 -------------
 
-# Paste the appropriate line below in your address bar, then type `javascript:` in front of it (Chrome strips out that part when you paste), then press enter.
-# In the popup, it's recommended to set a keyword
+1. Paste the appropriate line below in your address bar, then type `javascript:` in front of it (Chrome strips out that part when you paste), then press enter.
+1. In the popup, it's recommended to set a keyword
 
 
 Add to Firefox
 --------------
 
-#Open the Web Console (Tools => Web Developer => Web Console)
-#Paste the line in, press enter
+1. Open the Web Console (Tools => Web Developer => Web Console)
+1. Paste the line in, press enter
 
 
 Extension Installation Lines
