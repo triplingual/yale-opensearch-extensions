@@ -6,7 +6,7 @@
 <UpdateInterval>7</UpdateInterval>
 <UpdateUrl>https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-directory.xml</UpdateUrl>
 <SearchForm>http://directory.yale.edu/</SearchForm>
-<os:Url type="text/html" method="GET" template="http://directory.yale.edu/?queryType=field&netid={searchTerms}&amp;sourceid=mozilla-search">
+<os:Url type="text/html" method="GET" template="http://directory.yale.edu/?queryType=field&amp;netid={searchTerms}&amp;sourceid=mozilla-search">
 </os:Url><os:Url type="application/opensearchdescription+xml" method="GET" template="https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-directory.xml" rel="self">
 </os:Url>
 </SearchPlugin>

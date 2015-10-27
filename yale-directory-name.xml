@@ -6,7 +6,7 @@
 <UpdateInterval>7</UpdateInterval>
 <UpdateUrl>https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-directory-name.xml</UpdateUrl>
 <SearchForm>http://directory.yale.edu/phonebook/index.htm</SearchForm>
-<os:Url type="text/html" method="GET" template="http://directory.yale.edu/?queryType=term&pattern={searchTerms}&amp;sourceid=mozilla-search">
+<os:Url type="text/html" method="GET" template="http://directory.yale.edu/?queryType=term&amp;pattern={searchTerms}&amp;sourceid=mozilla-search">
 </os:Url><os:Url type="application/opensearchdescription+xml" method="GET" template="https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-directory-name.xml" rel="self">
 </os:Url>
 </SearchPlugin>
