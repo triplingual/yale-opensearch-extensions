@@ -38,11 +38,13 @@ Yale Library Eli Scholar
 Yale Service Now Global
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-service-now-global.xml')`
 
-Yale University New Orbis
+_Yale University Library New Orbis: New Orbis is now just Orbis, I believe. Leaving the plugin, but it's outdated._
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-university-new-orbis.xml')`
 
 Yale Global
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale.xml')`
 
-YUFind
-`javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yufind.xml')`
+_YUFind has been abandoned or at the least severely deprecated as a search interface for Yale University Library, so I've pulled the search extension._
+
+Yale University Library Quicksearch _However, this is the new search thing, and it's pretty darn good._
+`javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-university-quicksearch.xml')`
