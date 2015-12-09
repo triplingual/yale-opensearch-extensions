@@ -32,6 +32,9 @@ Yale Directory by NetID
 Yale ITS Orgchart
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-its-orgchart.xml')`
 
+Yale Library Beinecke Digital Collections
+`javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-library-beinecke-digital.xml')`
+
 Yale Library Eli Scholar
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-library-eli-scholar.xml')`
 
