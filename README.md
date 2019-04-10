@@ -46,3 +46,5 @@ Yale
 
 Yale University Library Quicksearch
 `javascript:window.external.AddSearchProvider('https://raw.github.com/triplingual/yale-opensearch-extensions/master/yale-university-quicksearch.xml');`
+
+(NB: "New Orbis" is gone, and regular [Orbis](https://orbis.library.yale.edu/vwebv/) needs a rewritten extension)
