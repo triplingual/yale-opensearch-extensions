@@ -1,0 +1,11 @@
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <ShortName>Google Web</ShortName>
+  <Description>Google Search to filter out AI summaries; originally from https://tenbluelinks.org/</Description>
+  <InputEncoding>UTF-8</InputEncoding>
+  <Image width="16" height="16" type="image/x-icon">https://www.google.com/favicon.ico</Image>
+  <Url type="text/html" template="https://www.google.com/search">
+    <Param name="q" value="{searchTerms}"></Param>
+    <Param name="udm" value="14"></Param>
+  </Url>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://tenbluelinks.org/opensearch.xml"></Url>
+</OpenSearchDescription>
